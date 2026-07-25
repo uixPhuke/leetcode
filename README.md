@@ -209,9 +209,15 @@ It motivates me to keep solving and sharing more LeetCode problems.
 </summary>
 
 <!---LeetCode Topics Start-->
-
-> **Paste your existing auto-generated LeetCode Topics section here exactly as it is.**
-
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/uixPhuke/leetcode/tree/master/0238-product-of-array-except-self) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/uixPhuke/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
 
 </details>
