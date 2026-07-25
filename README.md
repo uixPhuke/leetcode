@@ -218,6 +218,14 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/uixPhuke/leetcode/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/uixPhuke/leetcode/tree/master/0371-sum-of-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/uixPhuke/leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
 
 </details>
