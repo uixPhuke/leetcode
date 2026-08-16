@@ -54,10 +54,10 @@ This repository contains my solutions to **LeetCode** problems, written in **Jav
 
 | Difficulty | Solved |
 |:----------:|:------:|
-| 🟢 Easy | **2** |
-| 🟡 Medium | **1** |
+| 🟢 Easy | **3** |
+| 🟡 Medium | **3** |
 | 🔴 Hard | **0** |
-| **Total** | **3** |
+| **Total** | **6** |
 
 </div>
 
