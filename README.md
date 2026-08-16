@@ -231,10 +231,19 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/uixPhuke/leetcode/tree/master/0217-contains-duplicate) |
+| [0409-longest-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0409-longest-palindrome) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/uixPhuke/leetcode/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0409-longest-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
 
 </details>
