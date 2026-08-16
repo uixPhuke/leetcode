@@ -222,6 +222,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/uixPhuke/leetcode/tree/master/0012-integer-to-roman) |
 | [0371-sum-of-two-integers](https://github.com/uixPhuke/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
@@ -230,6 +231,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/uixPhuke/leetcode/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/uixPhuke/leetcode/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0409-longest-palindrome) |
 ## Sorting
@@ -239,6 +241,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/uixPhuke/leetcode/tree/master/0012-integer-to-roman) |
 | [0409-longest-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0409-longest-palindrome) |
 ## Greedy
 |  |
