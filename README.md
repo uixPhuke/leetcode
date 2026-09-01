@@ -232,6 +232,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | ------- |
 | [0231-power-of-two](https://github.com/uixPhuke/leetcode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/uixPhuke/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0476-number-complement](https://github.com/uixPhuke/leetcode/tree/master/0476-number-complement) |
 ## Hash Table
 |  |
 | ------- |
