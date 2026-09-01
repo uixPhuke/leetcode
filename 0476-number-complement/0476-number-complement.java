@@ -6,8 +6,8 @@ class Solution {
         temp=temp>>1;
         count++;
      }  
-     temp=num ^ (int)(Math.pow(2,count)-1); 
-    return temp;
+     return num ^ (int)(Math.pow(2,count)-1); 
+    
 
 
     }
