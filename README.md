@@ -256,6 +256,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/uixPhuke/leetcode/tree/master/0012-integer-to-roman) |
+| [0058-length-of-last-word](https://github.com/uixPhuke/leetcode/tree/master/0058-length-of-last-word) |
 | [0409-longest-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0409-longest-palindrome) |
 ## Greedy
 |  |
