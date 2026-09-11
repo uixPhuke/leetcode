@@ -1,39 +1,35 @@
 class Solution {
     public int totalNumbers(int[] digits) {
-        int count = 0;
-
         int[] freq = new int[10];
 
-        for (int digit : digits) {
-            freq[digit]++;
+        
+        for (int d : digits) {
+            freq[d]++;
         }
-        for (int num = 100; num <= 999; num++) {
 
-           
-            if (num % 2 != 0) {
-                continue;
-            }
+        int count = 0;
 
-            int n = num;
-            int[] needed = new int[10];
+        for (int first = 1; first <= 9; first++) {
+            if (freq[first] == 0) continue;
 
-            while (n > 0) {
-                needed[n % 10]++;
-                n /= 10;
-            }
+            freq[first]--;
 
-            boolean possible = true;
+            for (int second = 0; second <= 9; second++) {
+                if (freq[second] == 0) continue;
 
-            for (int d = 0; d <= 9; d++) {
-                if (needed[d] > freq[d]) {
-                    possible = false;
-                    break;
+                freq[second]--;
+
+              
+                for (int last = 0; last <= 8; last += 2) {
+                    if (freq[last] > 0) {
+                        count++;
+                    }
                 }
+
+                freq[second]++;
             }
 
-            if (possible) {
-                count++;
-            }
+            freq[first]++;
         }
 
         return count;
