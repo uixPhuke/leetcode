@@ -262,6 +262,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0012-integer-to-roman](https://github.com/uixPhuke/leetcode/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/uixPhuke/leetcode/tree/master/0058-length-of-last-word) |
 | [0409-longest-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0409-longest-palindrome) |
+| [0796-rotate-string](https://github.com/uixPhuke/leetcode/tree/master/0796-rotate-string) |
 ## Greedy
 |  |
 | ------- |
@@ -301,6 +302,10 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/uixPhuke/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/uixPhuke/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/uixPhuke/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/uixPhuke/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
 
 </details>
