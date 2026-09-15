@@ -6,12 +6,7 @@ class Solution {
             if(count==0){
                 candidate=num;
             }
-           if(candidate==num){
-                count++;
-            }
-            else{
-                count--;
-            }
+           count+=(candidate==num)?1:-1;
 
         }
         return candidate;
