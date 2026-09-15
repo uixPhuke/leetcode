@@ -221,6 +221,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0724-find-pivot-index](https://github.com/uixPhuke/leetcode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/uixPhuke/leetcode/tree/master/0867-transpose-matrix) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/uixPhuke/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/uixPhuke/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/uixPhuke/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/uixPhuke/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/uixPhuke/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -271,6 +272,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0409-longest-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/uixPhuke/leetcode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/uixPhuke/leetcode/tree/master/0796-rotate-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/uixPhuke/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Greedy
 |  |
 | ------- |
