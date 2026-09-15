@@ -215,6 +215,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | ------- |
 | [0001-two-sum](https://github.com/uixPhuke/leetcode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/uixPhuke/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/uixPhuke/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/uixPhuke/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/uixPhuke/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/uixPhuke/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -257,6 +258,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | ------- |
 | [0001-two-sum](https://github.com/uixPhuke/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/uixPhuke/leetcode/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/uixPhuke/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/uixPhuke/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/uixPhuke/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0409-longest-palindrome) |
@@ -266,6 +268,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/uixPhuke/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/uixPhuke/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/uixPhuke/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/uixPhuke/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/uixPhuke/leetcode/tree/master/0561-array-partition) |
@@ -286,6 +289,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/uixPhuke/leetcode/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/uixPhuke/leetcode/tree/master/0561-array-partition) |
 ## Recursion
 |  |
@@ -348,6 +352,14 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/uixPhuke/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/uixPhuke/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/uixPhuke/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
 
 </details>
