@@ -215,6 +215,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | ------- |
 | [0001-two-sum](https://github.com/uixPhuke/leetcode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/uixPhuke/leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/uixPhuke/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/uixPhuke/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/uixPhuke/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/uixPhuke/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -249,6 +250,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/uixPhuke/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/uixPhuke/leetcode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/uixPhuke/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/uixPhuke/leetcode/tree/master/0476-number-complement) |
