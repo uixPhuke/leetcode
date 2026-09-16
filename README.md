@@ -274,6 +274,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0242-valid-anagram](https://github.com/uixPhuke/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/uixPhuke/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/uixPhuke/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/uixPhuke/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0409-longest-palindrome) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/uixPhuke/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/uixPhuke/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -296,6 +297,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0125-valid-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/uixPhuke/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/uixPhuke/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/uixPhuke/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/uixPhuke/leetcode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/uixPhuke/leetcode/tree/master/0796-rotate-string) |
@@ -309,6 +311,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/uixPhuke/leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/uixPhuke/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/uixPhuke/leetcode/tree/master/0561-array-partition) |
 ## Recursion
 |  |
@@ -395,6 +398,10 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/uixPhuke/leetcode/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/uixPhuke/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
 
 </details>
