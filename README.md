@@ -219,6 +219,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0169-majority-element](https://github.com/uixPhuke/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/uixPhuke/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/uixPhuke/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/uixPhuke/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/uixPhuke/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/uixPhuke/leetcode/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/uixPhuke/leetcode/tree/master/0724-find-pivot-index) |
@@ -240,6 +241,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0012-integer-to-roman](https://github.com/uixPhuke/leetcode/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/uixPhuke/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/uixPhuke/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/uixPhuke/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/uixPhuke/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/uixPhuke/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/uixPhuke/leetcode/tree/master/0509-fibonacci-number) |
@@ -253,6 +255,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | ------- |
 | [0136-single-number](https://github.com/uixPhuke/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/uixPhuke/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/uixPhuke/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/uixPhuke/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/uixPhuke/leetcode/tree/master/0476-number-complement) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/uixPhuke/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -264,6 +267,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0169-majority-element](https://github.com/uixPhuke/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/uixPhuke/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/uixPhuke/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/uixPhuke/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/uixPhuke/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0409-longest-palindrome) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/uixPhuke/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -274,6 +278,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0088-merge-sorted-array](https://github.com/uixPhuke/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/uixPhuke/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/uixPhuke/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/uixPhuke/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/uixPhuke/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/uixPhuke/leetcode/tree/master/0561-array-partition) |
 ## String
@@ -356,6 +361,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/uixPhuke/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/uixPhuke/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
