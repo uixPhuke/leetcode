@@ -214,6 +214,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uixPhuke/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/uixPhuke/leetcode/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/uixPhuke/leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/uixPhuke/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uixPhuke/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -288,6 +289,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/uixPhuke/leetcode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/uixPhuke/leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/uixPhuke/leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/uixPhuke/leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0409-longest-palindrome) |
@@ -384,6 +386,10 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/uixPhuke/leetcode/tree/master/0202-happy-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/uixPhuke/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
 
 </details>
