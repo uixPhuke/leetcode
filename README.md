@@ -267,6 +267,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uixPhuke/leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/uixPhuke/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/uixPhuke/leetcode/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/uixPhuke/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/uixPhuke/leetcode/tree/master/0202-happy-number) |
@@ -291,6 +292,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/uixPhuke/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/uixPhuke/leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/uixPhuke/leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/uixPhuke/leetcode/tree/master/0058-length-of-last-word) |
@@ -405,6 +407,10 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/uixPhuke/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/uixPhuke/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
 
 </details>
