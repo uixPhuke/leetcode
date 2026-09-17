@@ -298,6 +298,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0242-valid-anagram](https://github.com/uixPhuke/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/uixPhuke/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/uixPhuke/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/uixPhuke/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/uixPhuke/leetcode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/uixPhuke/leetcode/tree/master/0796-rotate-string) |
@@ -343,6 +344,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0283-move-zeroes](https://github.com/uixPhuke/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/uixPhuke/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/uixPhuke/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/uixPhuke/leetcode/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -358,6 +360,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | ------- |
 | [0053-maximum-subarray](https://github.com/uixPhuke/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uixPhuke/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/uixPhuke/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/uixPhuke/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
