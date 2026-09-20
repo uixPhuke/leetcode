@@ -426,6 +426,18 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/uixPhuke/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/uixPhuke/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/uixPhuke/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/uixPhuke/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
 
 </details>
