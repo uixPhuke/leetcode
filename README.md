@@ -230,6 +230,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0724-find-pivot-index](https://github.com/uixPhuke/leetcode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/uixPhuke/leetcode/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/uixPhuke/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/uixPhuke/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/uixPhuke/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/uixPhuke/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/uixPhuke/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -242,6 +243,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/uixPhuke/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/uixPhuke/leetcode/tree/master/0724-find-pivot-index) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/uixPhuke/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -284,6 +286,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0387-first-unique-character-in-a-string](https://github.com/uixPhuke/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0409-longest-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/uixPhuke/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/uixPhuke/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/uixPhuke/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/uixPhuke/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
@@ -402,6 +405,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0268-missing-number](https://github.com/uixPhuke/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/uixPhuke/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/uixPhuke/leetcode/tree/master/0704-binary-search) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/uixPhuke/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -427,6 +431,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/uixPhuke/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/uixPhuke/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Geometry
 |  |
 | ------- |
