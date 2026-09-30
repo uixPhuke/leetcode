@@ -215,6 +215,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | ------- |
 | [0001-two-sum](https://github.com/uixPhuke/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/uixPhuke/leetcode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/uixPhuke/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/uixPhuke/leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/uixPhuke/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uixPhuke/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -371,6 +372,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/uixPhuke/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/uixPhuke/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/uixPhuke/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/uixPhuke/leetcode/tree/master/0202-happy-number) |
