@@ -318,6 +318,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0013-roman-to-integer](https://github.com/uixPhuke/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/uixPhuke/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uixPhuke/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/uixPhuke/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/uixPhuke/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/uixPhuke/leetcode/tree/master/0242-valid-anagram) |
@@ -398,6 +399,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/uixPhuke/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/uixPhuke/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uixPhuke/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/uixPhuke/leetcode/tree/master/0392-is-subsequence) |
@@ -483,6 +485,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/uixPhuke/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/uixPhuke/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/uixPhuke/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/uixPhuke/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -493,6 +496,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/uixPhuke/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/uixPhuke/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/uixPhuke/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Z Algorithm
