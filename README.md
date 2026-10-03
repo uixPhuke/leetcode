@@ -252,6 +252,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | ------- |
 | [0012-integer-to-roman](https://github.com/uixPhuke/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/uixPhuke/leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/uixPhuke/leetcode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/uixPhuke/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/uixPhuke/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/uixPhuke/leetcode/tree/master/0268-missing-number) |
@@ -352,6 +353,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/uixPhuke/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/uixPhuke/leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/uixPhuke/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/uixPhuke/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/uixPhuke/leetcode/tree/master/0509-fibonacci-number) |
