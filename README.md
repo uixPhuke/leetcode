@@ -335,6 +335,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0796-rotate-string](https://github.com/uixPhuke/leetcode/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/uixPhuke/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/uixPhuke/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1108-defanging-an-ip-address](https://github.com/uixPhuke/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/uixPhuke/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/uixPhuke/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/uixPhuke/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
