@@ -262,6 +262,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0412-fizz-buzz](https://github.com/uixPhuke/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/uixPhuke/leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/uixPhuke/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/uixPhuke/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/uixPhuke/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/uixPhuke/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3524-find-x-value-of-array-i](https://github.com/uixPhuke/leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -279,6 +280,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0268-missing-number](https://github.com/uixPhuke/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/uixPhuke/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/uixPhuke/leetcode/tree/master/0476-number-complement) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/uixPhuke/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/uixPhuke/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Hash Table
 |  |
