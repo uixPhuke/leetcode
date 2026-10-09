@@ -288,6 +288,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0231-power-of-two](https://github.com/uixPhuke/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/uixPhuke/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/uixPhuke/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/uixPhuke/leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/uixPhuke/leetcode/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/uixPhuke/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/uixPhuke/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -306,6 +307,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0349-intersection-of-two-arrays](https://github.com/uixPhuke/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/uixPhuke/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/uixPhuke/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/uixPhuke/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0409-longest-palindrome) |
 | [0705-design-hashset](https://github.com/uixPhuke/leetcode/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/uixPhuke/leetcode/tree/master/0771-jewels-and-stones) |
@@ -327,6 +329,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0242-valid-anagram](https://github.com/uixPhuke/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/uixPhuke/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/uixPhuke/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/uixPhuke/leetcode/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/uixPhuke/leetcode/tree/master/0561-array-partition) |
 | [1096-brace-expansion-ii](https://github.com/uixPhuke/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/uixPhuke/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -346,6 +349,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0344-reverse-string](https://github.com/uixPhuke/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/uixPhuke/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/uixPhuke/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/uixPhuke/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/uixPhuke/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/uixPhuke/leetcode/tree/master/0412-fizz-buzz) |
