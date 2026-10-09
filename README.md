@@ -304,6 +304,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0217-contains-duplicate](https://github.com/uixPhuke/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/uixPhuke/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/uixPhuke/leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/uixPhuke/leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/uixPhuke/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/uixPhuke/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/uixPhuke/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -346,6 +347,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0058-length-of-last-word](https://github.com/uixPhuke/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/uixPhuke/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/uixPhuke/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/uixPhuke/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/uixPhuke/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/uixPhuke/leetcode/tree/master/0387-first-unique-character-in-a-string) |
