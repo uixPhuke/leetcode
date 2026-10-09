@@ -229,6 +229,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0561-array-partition](https://github.com/uixPhuke/leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/uixPhuke/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/uixPhuke/leetcode/tree/master/0724-find-pivot-index) |
+| [0804-unique-morse-code-words](https://github.com/uixPhuke/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0867-transpose-matrix](https://github.com/uixPhuke/leetcode/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/uixPhuke/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/uixPhuke/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -305,6 +306,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0387-first-unique-character-in-a-string](https://github.com/uixPhuke/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/uixPhuke/leetcode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/uixPhuke/leetcode/tree/master/0804-unique-morse-code-words) |
 | [1096-brace-expansion-ii](https://github.com/uixPhuke/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/uixPhuke/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/uixPhuke/leetcode/tree/master/1436-destination-city) |
@@ -347,6 +349,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0678-valid-parenthesis-string](https://github.com/uixPhuke/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/uixPhuke/leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/uixPhuke/leetcode/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/uixPhuke/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/uixPhuke/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/uixPhuke/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/uixPhuke/leetcode/tree/master/1108-defanging-an-ip-address) |
