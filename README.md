@@ -304,6 +304,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0242-valid-anagram](https://github.com/uixPhuke/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/uixPhuke/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/uixPhuke/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/uixPhuke/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/uixPhuke/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0409-longest-palindrome) |
 | [0705-design-hashset](https://github.com/uixPhuke/leetcode/tree/master/0705-design-hashset) |
@@ -343,6 +344,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0125-valid-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/uixPhuke/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/uixPhuke/leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/uixPhuke/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/uixPhuke/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/uixPhuke/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0409-longest-palindrome) |
@@ -375,6 +377,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/uixPhuke/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/uixPhuke/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/uixPhuke/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/uixPhuke/leetcode/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/uixPhuke/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
