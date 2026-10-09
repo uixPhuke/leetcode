@@ -228,6 +228,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0349-intersection-of-two-arrays](https://github.com/uixPhuke/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/uixPhuke/leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/uixPhuke/leetcode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/uixPhuke/leetcode/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/uixPhuke/leetcode/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/uixPhuke/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0867-transpose-matrix](https://github.com/uixPhuke/leetcode/tree/master/0867-transpose-matrix) |
@@ -305,6 +306,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0349-intersection-of-two-arrays](https://github.com/uixPhuke/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/uixPhuke/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/uixPhuke/leetcode/tree/master/0409-longest-palindrome) |
+| [0705-design-hashset](https://github.com/uixPhuke/leetcode/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/uixPhuke/leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/uixPhuke/leetcode/tree/master/0804-unique-morse-code-words) |
 | [1096-brace-expansion-ii](https://github.com/uixPhuke/leetcode/tree/master/1096-brace-expansion-ii) |
@@ -420,6 +422,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0021-merge-two-sorted-lists](https://github.com/uixPhuke/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/uixPhuke/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/uixPhuke/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/uixPhuke/leetcode/tree/master/0705-design-hashset) |
 ## String Matching
 |  |
 | ------- |
@@ -548,6 +551,14 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uixPhuke/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/uixPhuke/leetcode/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/uixPhuke/leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
 
 </details>
