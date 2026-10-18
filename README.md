@@ -238,6 +238,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [1436-destination-city](https://github.com/uixPhuke/leetcode/tree/master/1436-destination-city) |
 | [1470-shuffle-the-array](https://github.com/uixPhuke/leetcode/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/uixPhuke/leetcode/tree/master/1528-shuffle-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/uixPhuke/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/uixPhuke/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/uixPhuke/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/uixPhuke/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -278,6 +279,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/uixPhuke/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/uixPhuke/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/uixPhuke/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/uixPhuke/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/uixPhuke/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3524-find-x-value-of-array-i](https://github.com/uixPhuke/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/uixPhuke/leetcode/tree/master/3525-find-x-value-of-array-ii) |
@@ -420,6 +422,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/uixPhuke/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/uixPhuke/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
@@ -462,11 +465,13 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0392-is-subsequence](https://github.com/uixPhuke/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/uixPhuke/leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/uixPhuke/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/uixPhuke/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3524-find-x-value-of-array-i](https://github.com/uixPhuke/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/uixPhuke/leetcode/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/uixPhuke/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Simulation
 |  |
 | ------- |
@@ -503,6 +508,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | ------- |
 | [0053-maximum-subarray](https://github.com/uixPhuke/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/uixPhuke/leetcode/tree/master/0169-majority-element) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/uixPhuke/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -532,14 +538,17 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/uixPhuke/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/uixPhuke/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/uixPhuke/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/uixPhuke/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/uixPhuke/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/uixPhuke/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Segment Tree
 |  |
 | ------- |
@@ -592,6 +601,14 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/uixPhuke/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/uixPhuke/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/uixPhuke/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/uixPhuke/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
 
 </details>
