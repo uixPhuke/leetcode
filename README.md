@@ -258,6 +258,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/uixPhuke/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/uixPhuke/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/uixPhuke/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/uixPhuke/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -290,6 +291,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [3870-count-commas-in-range](https://github.com/uixPhuke/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/uixPhuke/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/uixPhuke/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/uixPhuke/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -352,6 +354,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [2089-find-target-indices-after-sorting-array](https://github.com/uixPhuke/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/uixPhuke/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/uixPhuke/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/uixPhuke/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -431,6 +434,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/uixPhuke/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/uixPhuke/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/uixPhuke/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
