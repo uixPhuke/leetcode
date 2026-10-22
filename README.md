@@ -259,6 +259,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [3727-maximum-alternating-sum-of-squares](https://github.com/uixPhuke/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/uixPhuke/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/uixPhuke/leetcode/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/uixPhuke/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Prefix Sum
 |  |
 | ------- |
