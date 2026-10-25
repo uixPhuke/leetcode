@@ -217,6 +217,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0014-longest-common-prefix](https://github.com/uixPhuke/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/uixPhuke/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/uixPhuke/leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/uixPhuke/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/uixPhuke/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uixPhuke/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/uixPhuke/leetcode/tree/master/0136-single-number) |
@@ -273,6 +274,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0012-integer-to-roman](https://github.com/uixPhuke/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/uixPhuke/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/uixPhuke/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/uixPhuke/leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/uixPhuke/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/uixPhuke/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/uixPhuke/leetcode/tree/master/0268-missing-number) |
