@@ -552,6 +552,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/uixPhuke/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/uixPhuke/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/uixPhuke/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
@@ -562,6 +563,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/uixPhuke/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/uixPhuke/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/uixPhuke/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Segment Tree
@@ -574,6 +576,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/uixPhuke/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/uixPhuke/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/uixPhuke/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/uixPhuke/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/uixPhuke/leetcode/tree/master/1096-brace-expansion-ii) |
@@ -624,6 +627,10 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/uixPhuke/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/uixPhuke/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
 
 </details>
