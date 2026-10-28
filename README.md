@@ -553,6 +553,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/uixPhuke/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/uixPhuke/leetcode/tree/master/0100-same-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/uixPhuke/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/uixPhuke/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
@@ -564,6 +565,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/uixPhuke/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/uixPhuke/leetcode/tree/master/0100-same-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/uixPhuke/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/uixPhuke/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Segment Tree
@@ -585,6 +587,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/uixPhuke/leetcode/tree/master/0100-same-tree) |
 | [1096-brace-expansion-ii](https://github.com/uixPhuke/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
@@ -631,6 +634,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/uixPhuke/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/uixPhuke/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
 
 </details>
