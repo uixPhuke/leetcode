@@ -228,6 +228,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0283-move-zeroes](https://github.com/uixPhuke/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/uixPhuke/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/uixPhuke/leetcode/tree/master/0561-array-partition) |
+| [0643-maximum-average-subarray-i](https://github.com/uixPhuke/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/uixPhuke/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/uixPhuke/leetcode/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/uixPhuke/leetcode/tree/master/0724-find-pivot-index) |
@@ -544,6 +545,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/uixPhuke/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/uixPhuke/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/uixPhuke/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Geometry
 |  |
