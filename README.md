@@ -248,6 +248,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [1672-richest-customer-wealth](https://github.com/uixPhuke/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/uixPhuke/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/uixPhuke/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1882-process-tasks-using-servers](https://github.com/uixPhuke/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1920-build-array-from-permutation](https://github.com/uixPhuke/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/uixPhuke/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/uixPhuke/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -647,6 +648,10 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/uixPhuke/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/uixPhuke/leetcode/tree/master/0100-same-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1882-process-tasks-using-servers](https://github.com/uixPhuke/leetcode/tree/master/1882-process-tasks-using-servers) |
 <!---LeetCode Topics End-->
 
 </details>
