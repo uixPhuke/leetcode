@@ -236,6 +236,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0724-find-pivot-index](https://github.com/uixPhuke/leetcode/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/uixPhuke/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0867-transpose-matrix](https://github.com/uixPhuke/leetcode/tree/master/0867-transpose-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/uixPhuke/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/uixPhuke/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/uixPhuke/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/uixPhuke/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -426,6 +427,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0383-ransom-note](https://github.com/uixPhuke/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/uixPhuke/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/uixPhuke/leetcode/tree/master/0561-array-partition) |
+| [1267-count-servers-that-communicate](https://github.com/uixPhuke/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/uixPhuke/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Recursion
 |  |
@@ -508,6 +510,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/uixPhuke/leetcode/tree/master/0867-transpose-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/uixPhuke/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1572-matrix-diagonal-sum](https://github.com/uixPhuke/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/uixPhuke/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Database
@@ -602,6 +605,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | ------- |
 | [0100-same-tree](https://github.com/uixPhuke/leetcode/tree/master/0100-same-tree) |
 | [1096-brace-expansion-ii](https://github.com/uixPhuke/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/uixPhuke/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -638,6 +642,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/uixPhuke/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/uixPhuke/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -648,6 +653,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/uixPhuke/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/uixPhuke/leetcode/tree/master/0100-same-tree) |
+| [1267-count-servers-that-communicate](https://github.com/uixPhuke/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
