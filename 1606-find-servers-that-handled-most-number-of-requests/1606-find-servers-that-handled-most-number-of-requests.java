@@ -35,7 +35,7 @@ class Solution {
             busyServers.offer(new int[] { finishTime, targetServer });
             
             requestCount[targetServer]++;
-            maxRequests = Math.max(maxRequests, requestCount[targetServer]);
+            maxRequests = Math.max(maxRequests,requestCount[targetServer]);
         }
 
         List<Integer> result = new ArrayList<>();
