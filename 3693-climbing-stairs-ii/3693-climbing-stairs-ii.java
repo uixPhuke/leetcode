@@ -1,18 +1,18 @@
 class Solution {
     public int climbStairs(int n, int[] costs) {
-        long[] minCost = new long[n + 1];
-        java.util.Arrays.fill(minCost, Long.MAX_VALUE);
-        minCost[0] = 0;
+        long[] dp = new long[n + 1];
+        java.util.Arrays.fill(dp, Long.MAX_VALUE);
+        dp[0] = 0;
 
-        for (int currentStep = 1; currentStep <= n; currentStep++) {
-            for (int prevStep = Math.max(0, currentStep - 3); prevStep < currentStep; prevStep++) {
-                if (minCost[prevStep] != Long.MAX_VALUE) {
-                    long transitionCost = costs[currentStep - 1] + (long) (currentStep - prevStep) * (currentStep - prevStep);
-                    minCost[currentStep] = Math.min(minCost[currentStep], minCost[prevStep] + transitionCost);
+        for (int j = 1; j <= n; j++) {
+            for (int i = Math.max(0, j - 3); i < j; i++) {
+                if (dp[i] != Long.MAX_VALUE) {
+                    long jumpCost = costs[j - 1] + (long) (j - i) * (j - i);
+                    dp[j] = Math.min(dp[j], dp[i] + jumpCost);
                 }
             }
         }
 
-        return (int) minCost[n];
+        return (int) dp[n];
     }
 }
