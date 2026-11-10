@@ -8,7 +8,7 @@ class Solution {
             for (int i = Math.max(0, j - 3); i < j; i++) {
                 if (dp[i] != Long.MAX_VALUE) {
                     long jumpCost = costs[j - 1] + (long) (j - i) * (j - i);
-                    dp[j] = Math.min(dp[j], dp[i] +jumpCost);
+                    dp[j] = Math.min(dp[j], dp[i]+jumpCost);
                 }
             }
         }
