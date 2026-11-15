@@ -242,6 +242,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/uixPhuke/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/uixPhuke/leetcode/tree/master/1436-destination-city) |
 | [1470-shuffle-the-array](https://github.com/uixPhuke/leetcode/tree/master/1470-shuffle-the-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/uixPhuke/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-shuffle-string](https://github.com/uixPhuke/leetcode/tree/master/1528-shuffle-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/uixPhuke/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/uixPhuke/leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -278,6 +279,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/uixPhuke/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/uixPhuke/leetcode/tree/master/0724-find-pivot-index) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/uixPhuke/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/uixPhuke/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/uixPhuke/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Math
@@ -300,6 +302,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/uixPhuke/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/uixPhuke/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/uixPhuke/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/uixPhuke/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/uixPhuke/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/uixPhuke/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3524-find-x-value-of-array-i](https://github.com/uixPhuke/leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -501,6 +504,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0392-is-subsequence](https://github.com/uixPhuke/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/uixPhuke/leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/uixPhuke/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/uixPhuke/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/uixPhuke/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3524-find-x-value-of-array-i](https://github.com/uixPhuke/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/uixPhuke/leetcode/tree/master/3693-climbing-stairs-ii) |
