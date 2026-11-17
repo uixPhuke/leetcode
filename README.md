@@ -417,6 +417,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/uixPhuke/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/uixPhuke/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/uixPhuke/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/uixPhuke/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3498-reverse-degree-of-a-string](https://github.com/uixPhuke/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/uixPhuke/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/uixPhuke/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -482,6 +483,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0349-intersection-of-two-arrays](https://github.com/uixPhuke/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/uixPhuke/leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/uixPhuke/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/uixPhuke/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Linked List
 |  |
 | ------- |
@@ -506,6 +508,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0678-valid-parenthesis-string](https://github.com/uixPhuke/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/uixPhuke/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/uixPhuke/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/uixPhuke/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3524-find-x-value-of-array-i](https://github.com/uixPhuke/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/uixPhuke/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
